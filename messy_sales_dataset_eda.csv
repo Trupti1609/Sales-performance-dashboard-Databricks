@@ -1,0 +1,301 @@
+Order_ID,Order_Date,Region,Category,Quantity,Unit_Price,Discount_Percent,Cost_Price,Payment_Mode,Ship_Mode
+2001,27-01-2025,,Clothing,5.0,,5.0,835.4,Debit Card,Standard
+2002,23-03-2025,West,,,,-5.0,598.07,COD,Standard
+2003,04-01-2025,West,Clothing,-3.0,59262.0,5.0,31829.97,COD,
+2004,02-09-2025,,,,,15.0,,Cash,Express
+2005,07-01-2025,East,Clothing,-3.0,,-5.0,,Cash,Standard
+2006,27-11-2025,East,Electronics,-3.0,,-5.0,,,Express
+2005,18-07-2025,South,Furniture,,2637.0,,,COD,
+2008,14-09-2025,North,,-3.0,,-5.0,,COD,Express
+2009,25-08-2025,East,electronics,1.0,,10.0,,UPI,Standard
+2010,13-11-2025,East,Electronics,-3.0,0.0,5.0,533.16,Cash,
+2011,22-11-2025,West,Furniture,7.0,,20.0,,COD,Standard
+2012,14-12-2025,East,,,88155.0,-5.0,46841.21,Debit Card,Standard
+2013,02-12-2025,,electronics,,48798.0,,43428.85,COD,Standard
+2014,11-03-2025,West,Furniture,-3.0,,20.0,,Cash,Express
+2015,22-09-2025,,Clothing,-3.0,,,,UPI,Express
+2016,17-09-2025,,Furniture,4.0,,20.0,517.21,UPI,Standard
+2017,18-05-2025,,Furniture,10.0,0.0,15.0,533.5,COD,Express
+2018,23-07-2025,North,,,,15.0,658.33,,Standard
+2019,04-11-2025,East,Clothing,,0.0,,548.93,,Express
+2020,11-06-2025,West,electronics,6.0,,10.0,828.19,COD,
+2021,16-05-2025,,,-3.0,,5.0,868.67,Debit Card,Standard
+2022,14-07-2025,East,Clothing,-3.0,,5.0,,COD,
+2023,20-10-2025,West,Furniture,6.0,0.0,,,UPI,Standard
+2024,08-08-2025,South,Furniture,-3.0,,,517.1,Cash,Standard
+2025,26-08-2025,East,Furniture,-3.0,0.0,,860.37,,Standard
+2026,10-05-2025,North,Furniture,5.0,,20.0,517.36,UPI,Express
+2027,26-09-2025,,Electronics,-3.0,70129.0,15.0,,UPI,Express
+2028,10-11-2025,East,electronics,-3.0,37108.0,,32519.83,COD,Standard
+2029,31-01-2025,North,Furniture,,,,,UPI,Standard
+2005,17-04-2025,North,electronics,,3889.0,20.0,2965.31,,Express
+2031,06-04-2025,west,Clothing,5.0,0.0,-5.0,828.72,Credit Card,Express
+2032,26-04-2025,East,Electronics,7.0,0.0,20.0,656.27,Debit Card,Standard
+2033,01-09-2025,South,Clothing,2.0,,15.0,720.72,Debit Card,Standard
+2034,19-07-2025,North,electronics,1.0,67152.0,,51423.26,Credit Card,Express
+2035,06-03-2025,East,electronics,8.0,1196.0,5.0,756.36,Credit Card,
+2036,27-07-2025,South,electronics,1.0,20383.0,20.0,15863.66,Credit Card,Standard
+2037,01-05-2025,East,Clothing,,88526.0,5.0,,Credit Card,Standard
+2038,30-01-2025,,,9.0,14960.0,15.0,8883.09,Debit Card,Express
+2039,12-10-2025,west,Electronics,,82562.0,20.0,,Debit Card,
+2040,02-01-2025,west,,5.0,0.0,10.0,,,
+2041,12-04-2025,East,Clothing,-3.0,89416.0,10.0,,,
+2042,06-10-2025,South,Furniture,,,-5.0,512.45,UPI,Standard
+2043,06-11-2025,South,electronics,,16393.0,15.0,,UPI,
+2044,14-05-2025,west,Clothing,-3.0,0.0,,,COD,Standard
+2045,03-01-2025,North,Furniture,2.0,81675.0,20.0,,COD,Standard
+2046,01-08-2025,South,electronics,4.0,,10.0,821.18,Credit Card,Express
+2047,06-06-2025,,Furniture,2.0,0.0,20.0,606.45,Debit Card,Express
+2048,02-11-2025,North,electronics,-3.0,44830.0,-5.0,,Credit Card,Express
+2049,24-01-2025,West,electronics,7.0,20679.0,-5.0,10731.1,Cash,Standard
+2050,25-07-2025,North,Electronics,-3.0,0.0,,875.57,COD,Standard
+2051,01-10-2025,West,electronics,-3.0,4594.0,-5.0,2362.48,,Express
+2052,12-11-2025,West,Electronics,,87257.0,-5.0,,UPI,Standard
+2053,19-03-2025,South,electronics,-3.0,0.0,15.0,,Credit Card,
+2054,28-09-2025,west,Furniture,9.0,0.0,,783.7,,
+2055,03-09-2025,,,,,15.0,,,Express
+2056,12-04-2025,west,Furniture,3.0,49638.0,,,UPI,
+2057,13-11-2025,East,,2.0,,10.0,702.59,Credit Card,
+2058,26-09-2025,East,Furniture,,0.0,-5.0,,Credit Card,Standard
+2059,31-12-2025,west,Furniture,-3.0,0.0,10.0,647.61,,
+2060,24-07-2025,West,electronics,-3.0,0.0,-5.0,,Credit Card,Express
+2061,29-06-2025,West,electronics,-3.0,58009.0,5.0,,COD,
+2062,15-02-2025,North,,,61296.0,5.0,,,
+2063,15-10-2025,west,electronics,-3.0,0.0,15.0,766.23,Credit Card,
+2064,29-08-2025,South,,-3.0,,-5.0,,Debit Card,
+2065,06-02-2025,,electronics,6.0,6648.0,,3665.81,COD,
+2066,13-09-2025,West,electronics,2.0,,10.0,,UPI,Express
+2067,18-09-2025,West,Electronics,7.0,,5.0,,COD,
+2068,02-12-2025,South,,-3.0,,-5.0,516.15,COD,Express
+2069,20-06-2025,,Clothing,,,,574.17,UPI,Standard
+2070,27-05-2025,West,,-3.0,38125.0,15.0,,COD,Standard
+2071,17-04-2025,East,Clothing,6.0,0.0,10.0,839.53,COD,
+2072,17-08-2025,West,,,0.0,15.0,,Debit Card,Express
+2073,17-10-2025,,electronics,-3.0,70019.0,10.0,56693.94,,
+2074,20-05-2025,West,,10.0,38585.0,,,COD,
+2075,02-02-2025,South,electronics,,83425.0,10.0,53201.49,Credit Card,Standard
+2076,21-08-2025,South,Furniture,-3.0,0.0,10.0,618.68,Cash,Express
+2005,14-01-2025,North,Electronics,3.0,0.0,-5.0,,Debit Card,Standard
+2078,12-02-2025,North,Electronics,,57533.0,5.0,51344.54,COD,Standard
+2079,02-05-2025,,electronics,5.0,59556.0,,,Debit Card,Express
+2080,10-08-2025,west,,10.0,75145.0,10.0,,,Standard
+2081,23-03-2025,west,Electronics,9.0,,-5.0,,COD,
+2082,18-11-2025,West,Clothing,7.0,0.0,10.0,,Debit Card,
+2083,02-06-2025,West,electronics,5.0,0.0,10.0,892.74,Cash,Express
+2084,07-09-2025,East,Electronics,2.0,,,,Credit Card,Express
+2085,21-06-2025,South,Electronics,,,5.0,,Credit Card,Express
+2086,26-12-2025,East,electronics,,0.0,5.0,,COD,Standard
+2087,02-04-2025,west,,4.0,0.0,15.0,,Credit Card,
+2088,08-08-2025,East,Electronics,,,,,,Standard
+2089,01-09-2025,west,,-3.0,78855.0,10.0,,Debit Card,
+2090,02-01-2025,South,Furniture,,0.0,5.0,,COD,Standard
+2091,09-12-2025,West,electronics,3.0,70058.0,10.0,,Cash,Express
+2092,13-05-2025,South,Furniture,6.0,10338.0,-5.0,,COD,Express
+2093,23-08-2025,East,Furniture,-3.0,0.0,5.0,522.15,UPI,
+2005,11-09-2025,West,Electronics,-3.0,,10.0,879.13,Cash,
+2095,16-09-2025,East,Furniture,-3.0,,15.0,755.25,Cash,
+2096,20-04-2025,East,Clothing,4.0,0.0,,,Credit Card,
+2097,20-07-2025,West,,6.0,32909.0,5.0,28957.22,COD,Standard
+2098,31-12-2025,west,Clothing,,0.0,5.0,,,Standard
+2099,29-03-2025,South,Clothing,,,10.0,,COD,
+2100,26-12-2025,,Electronics,-3.0,,,733.76,,Standard
+2101,15-03-2025,North,Clothing,-3.0,0.0,15.0,,UPI,Standard
+2102,30-11-2025,,electronics,4.0,81018.0,15.0,48530.59,COD,
+2103,08-04-2025,west,Furniture,1.0,0.0,-5.0,742.42,Credit Card,Standard
+2104,13-09-2025,South,electronics,,0.0,20.0,658.92,,Standard
+2105,22-10-2025,East,Clothing,7.0,43398.0,15.0,30989.37,COD,
+2106,26-02-2025,West,Furniture,,0.0,-5.0,522.81,Debit Card,
+2107,08-04-2025,East,Clothing,5.0,25368.0,20.0,12917.53,Cash,Standard
+2108,21-12-2025,West,electronics,-3.0,0.0,20.0,732.36,UPI,
+2109,29-06-2025,North,Furniture,2.0,0.0,,592.39,UPI,Express
+2110,16-11-2025,West,Furniture,5.0,32240.0,5.0,,Cash,Express
+2111,08-01-2025,South,electronics,-3.0,37152.0,-5.0,,Cash,Standard
+2112,12-10-2025,East,Furniture,,5574.0,5.0,4652.01,Cash,
+2113,29-09-2025,west,,-3.0,87457.0,15.0,69184.97,Credit Card,
+2114,24-10-2025,West,Clothing,,,5.0,,COD,
+2115,08-12-2025,,Clothing,,16598.0,20.0,,COD,
+2116,26-11-2025,West,electronics,,22682.0,10.0,,Credit Card,Express
+2117,22-07-2025,,,-3.0,,15.0,,Cash,
+2118,10-01-2025,west,electronics,9.0,0.0,10.0,,,Standard
+2119,21-05-2025,South,electronics,3.0,11659.0,,,Debit Card,Standard
+2120,07-05-2025,North,Clothing,-3.0,0.0,20.0,648.38,COD,
+2121,05-10-2025,west,Clothing,,9843.0,10.0,8355.85,Credit Card,Express
+2122,05-04-2025,West,Clothing,5.0,,10.0,,Cash,
+2123,04-01-2025,North,electronics,,57625.0,15.0,36009.02,Credit Card,Standard
+2124,21-01-2025,East,Furniture,,,-5.0,766.77,UPI,
+2125,17-03-2025,West,Furniture,2.0,0.0,,866.83,COD,Express
+2126,09-12-2025,west,,-3.0,47513.0,-5.0,,Debit Card,Standard
+2127,22-11-2025,North,Furniture,-3.0,,-5.0,701.59,Debit Card,Standard
+2128,13-09-2025,North,Electronics,,,,,Credit Card,
+2129,30-08-2025,west,electronics,6.0,,-5.0,788.85,UPI,
+2130,02-11-2025,west,Furniture,,29571.0,20.0,,Credit Card,Standard
+2131,23-04-2025,west,Furniture,-3.0,0.0,10.0,,Cash,Standard
+2132,03-01-2025,East,,-3.0,,-5.0,,Debit Card,
+2133,08-06-2025,west,Electronics,,51341.0,-5.0,41612.8,Debit Card,Standard
+2134,28-01-2025,west,Clothing,,0.0,-5.0,870.82,Cash,Express
+2135,20-10-2025,South,electronics,,70755.0,,48874.44,UPI,
+2136,02-02-2025,West,,9.0,0.0,5.0,877.27,Cash,
+2137,09-11-2025,South,,-3.0,6358.0,15.0,,Credit Card,
+2138,08-04-2025,East,Electronics,-3.0,,10.0,,Debit Card,Express
+2139,24-09-2025,,Clothing,1.0,63530.0,-5.0,,Cash,
+2140,24-01-2025,,Clothing,-3.0,0.0,,,,
+2141,05-12-2025,South,electronics,,0.0,,800.01,Cash,Express
+2142,06-08-2025,,Furniture,,64546.0,,48179.39,Cash,Express
+2143,10-09-2025,west,Clothing,,38126.0,5.0,,,Standard
+2144,19-11-2025,East,Furniture,,,5.0,,Cash,Standard
+2145,31-01-2025,,Furniture,-3.0,21461.0,5.0,16269.25,UPI,Standard
+2005,23-06-2025,East,Furniture,-3.0,,20.0,,Cash,Standard
+2147,20-05-2025,west,electronics,10.0,0.0,5.0,507.09,Cash,Express
+2148,21-08-2025,North,Furniture,1.0,30436.0,-5.0,,Cash,Standard
+2149,01-06-2025,West,Furniture,10.0,,,,COD,Express
+2150,01-05-2025,South,Electronics,-3.0,,,,,Standard
+2151,15-07-2025,West,,,,,,Debit Card,Standard
+2152,05-04-2025,South,,,0.0,20.0,,COD,Standard
+2153,23-10-2025,West,Furniture,,,5.0,610.43,,
+2154,24-06-2025,South,Electronics,-3.0,0.0,5.0,691.02,UPI,Express
+2155,24-01-2025,North,Electronics,5.0,0.0,10.0,,,Standard
+2156,18-10-2025,East,Clothing,,0.0,10.0,,Credit Card,
+2157,13-02-2025,North,,,,15.0,731.27,COD,Standard
+2158,29-04-2025,South,Electronics,,0.0,,,UPI,
+2159,08-10-2025,South,electronics,4.0,0.0,,,Cash,Express
+2160,17-05-2025,South,Clothing,9.0,,15.0,,COD,Standard
+2161,13-03-2025,South,,-3.0,,10.0,,Cash,
+2162,22-09-2025,North,electronics,,0.0,,,UPI,Standard
+2163,26-11-2025,west,Furniture,1.0,16910.0,10.0,13296.12,Cash,
+2164,21-01-2025,North,,-3.0,68233.0,10.0,,Credit Card,Express
+2165,05-04-2025,West,,1.0,0.0,15.0,837.23,COD,Express
+2166,07-07-2025,west,electronics,-3.0,5413.0,-5.0,,Debit Card,Standard
+2167,02-09-2025,East,Clothing,-3.0,0.0,20.0,,Cash,Express
+2168,06-03-2025,North,electronics,,3225.0,20.0,,,Express
+2169,29-10-2025,,Clothing,-3.0,,,,Cash,Express
+2170,07-10-2025,West,Furniture,-3.0,0.0,20.0,800.06,,Express
+2171,19-02-2025,North,,,36358.0,15.0,22865.49,Debit Card,Express
+2172,03-01-2025,West,,,0.0,15.0,,COD,
+2173,14-02-2025,East,Electronics,-3.0,36226.0,-5.0,20061.19,,Express
+2174,09-01-2025,west,Clothing,,,20.0,,Credit Card,Express
+2175,05-02-2025,,Clothing,-3.0,,-5.0,591.61,Debit Card,
+2176,23-12-2025,North,Electronics,5.0,42164.0,10.0,29228.04,Cash,Express
+2177,10-02-2025,West,Furniture,8.0,0.0,-5.0,,Cash,Express
+2178,27-06-2025,west,electronics,7.0,72347.0,20.0,,Credit Card,Express
+2179,06-07-2025,East,,,0.0,20.0,692.22,COD,
+2180,11-09-2025,,Electronics,5.0,0.0,,,Debit Card,Express
+2181,06-02-2025,North,,,5353.0,5.0,4122.31,UPI,Standard
+2182,08-11-2025,West,Electronics,9.0,0.0,20.0,,Debit Card,Express
+2183,30-03-2025,South,Electronics,2.0,0.0,5.0,794.8,Credit Card,Express
+2184,06-02-2025,East,electronics,,12710.0,10.0,,Cash,Express
+2185,12-04-2025,West,electronics,,15484.0,,9148.44,COD,
+2186,06-08-2025,North,electronics,,,20.0,737.65,Debit Card,Express
+2187,10-06-2025,East,,6.0,,-5.0,,Credit Card,Standard
+2188,01-03-2025,East,Clothing,7.0,0.0,10.0,,Debit Card,Express
+2189,23-05-2025,West,,,,,800.59,Credit Card,
+2190,01-11-2025,west,electronics,4.0,76499.0,10.0,,UPI,
+2191,04-10-2025,West,Clothing,,,10.0,,Debit Card,Standard
+2005,15-06-2025,South,,,0.0,15.0,,,Standard
+2193,14-03-2025,North,,5.0,,20.0,,Credit Card,
+2194,31-08-2025,East,electronics,-3.0,0.0,-5.0,505.04,Debit Card,Standard
+2195,20-03-2025,North,electronics,8.0,,10.0,,,Standard
+2196,06-05-2025,East,Clothing,-3.0,14072.0,15.0,10022.15,Cash,Standard
+2197,02-02-2025,East,Clothing,10.0,84493.0,-5.0,64696.15,Cash,Standard
+2198,01-10-2025,west,Furniture,6.0,0.0,,613.69,Debit Card,Standard
+2199,08-08-2025,west,,,17630.0,20.0,11317.72,Cash,
+2200,16-07-2025,west,electronics,9.0,,-5.0,,UPI,Standard
+2201,15-12-2025,North,,-3.0,0.0,10.0,,Debit Card,Express
+2202,23-11-2025,East,Electronics,-3.0,0.0,15.0,592.93,,Standard
+2203,31-08-2025,West,Furniture,2.0,,,633.24,Credit Card,Express
+2204,22-03-2025,North,Furniture,-3.0,0.0,10.0,581.73,Cash,Standard
+2205,29-12-2025,west,Electronics,-3.0,38543.0,5.0,,Cash,Express
+2206,15-01-2025,West,Electronics,,22579.0,20.0,15094.74,COD,
+2207,09-07-2025,East,Furniture,,14705.0,15.0,12014.03,Credit Card,Standard
+2208,24-10-2025,West,,3.0,66474.0,20.0,,Debit Card,Express
+2209,20-02-2025,west,Clothing,,42411.0,10.0,31222.31,COD,
+2210,16-04-2025,East,Electronics,-3.0,3470.0,20.0,1916.25,COD,Standard
+2211,19-08-2025,,Furniture,1.0,,5.0,,Credit Card,
+2212,30-10-2025,North,Clothing,8.0,0.0,,,,Standard
+2213,30-07-2025,North,Furniture,,0.0,-5.0,555.07,UPI,Standard
+2214,27-01-2025,,electronics,-3.0,0.0,5.0,,,
+2215,01-02-2025,west,Furniture,1.0,,15.0,,COD,Standard
+2216,07-10-2025,South,,6.0,73264.0,20.0,,UPI,Standard
+2217,23-09-2025,South,Electronics,-3.0,0.0,10.0,,,Standard
+2005,09-06-2025,West,Electronics,,0.0,,693.65,,Express
+2219,26-09-2025,West,Clothing,6.0,76447.0,,,Credit Card,Express
+2220,25-04-2025,West,Furniture,,57974.0,-5.0,,COD,Standard
+2221,15-11-2025,West,,10.0,,15.0,,Debit Card,
+2005,26-07-2025,East,electronics,3.0,,,834.63,COD,Express
+2005,03-11-2025,West,Clothing,,,10.0,706.42,Credit Card,Standard
+2005,25-07-2025,North,Furniture,,,15.0,,Cash,Standard
+2225,06-03-2025,west,Clothing,,73930.0,5.0,,UPI,Standard
+2226,31-12-2025,,,-3.0,0.0,-5.0,648.95,COD,Express
+2227,19-05-2025,East,Electronics,-3.0,68089.0,5.0,,Cash,
+2228,10-07-2025,North,electronics,,,10.0,,Debit Card,
+2229,13-08-2025,west,,,,20.0,735.15,,Standard
+2230,07-12-2025,East,Electronics,2.0,,5.0,622.75,UPI,Express
+2231,14-06-2025,North,Furniture,,,-5.0,778.61,Cash,Standard
+2232,15-07-2025,west,Clothing,-3.0,31161.0,-5.0,18808.64,,Standard
+2233,24-04-2025,,,-3.0,0.0,15.0,502.07,,Express
+2234,26-04-2025,West,Electronics,10.0,,5.0,,Cash,Express
+2235,09-05-2025,North,electronics,-3.0,3084.0,5.0,,Credit Card,
+2005,15-01-2025,East,electronics,1.0,65479.0,15.0,,,Express
+2237,14-07-2025,North,,,87024.0,-5.0,,Debit Card,Express
+2238,02-05-2025,West,Electronics,,39921.0,20.0,,UPI,Express
+2239,28-04-2025,North,,-3.0,0.0,-5.0,539.13,COD,Standard
+2240,29-08-2025,North,Furniture,-3.0,0.0,-5.0,508.41,Debit Card,Express
+2241,28-11-2025,west,electronics,,0.0,,780.29,COD,Express
+2242,25-08-2025,South,electronics,-3.0,,5.0,563.35,UPI,
+2243,12-05-2025,west,Electronics,-3.0,76806.0,5.0,59316.67,Debit Card,Express
+2244,08-04-2025,,Electronics,,34651.0,20.0,31174.13,COD,Standard
+2245,08-05-2025,west,electronics,3.0,0.0,-5.0,,,Standard
+2246,09-04-2025,East,Furniture,-3.0,0.0,15.0,894.37,Debit Card,Express
+2247,13-06-2025,South,Clothing,3.0,76296.0,20.0,,COD,Express
+2248,21-01-2025,west,Clothing,1.0,71753.0,10.0,,COD,
+2249,01-06-2025,North,Electronics,-3.0,,-5.0,,Debit Card,Express
+2250,04-06-2025,North,Furniture,,65741.0,10.0,,UPI,Express
+2251,05-12-2025,North,,,23843.0,5.0,,Credit Card,Express
+2252,30-05-2025,west,electronics,3.0,0.0,5.0,554.43,,Standard
+2005,29-12-2025,East,Furniture,8.0,,15.0,,Debit Card,Express
+2254,12-05-2025,west,electronics,-3.0,,15.0,,Debit Card,Standard
+2255,14-06-2025,South,Electronics,,,10.0,,,Express
+2256,21-06-2025,,Clothing,2.0,41021.0,15.0,27176.71,Cash,
+2257,27-02-2025,East,,-3.0,30122.0,-5.0,26004.18,,Standard
+2258,29-07-2025,west,Electronics,3.0,,10.0,738.22,COD,Express
+2259,20-02-2025,west,electronics,-3.0,,15.0,,Credit Card,Express
+2260,01-07-2025,West,,-3.0,0.0,-5.0,864.01,Cash,
+2005,30-03-2025,west,,,0.0,,,Debit Card,
+2262,13-09-2025,East,Electronics,7.0,,-5.0,844.16,Cash,Standard
+2005,21-08-2025,South,Clothing,,8367.0,,,Debit Card,Express
+2264,09-10-2025,East,Electronics,5.0,0.0,15.0,,Credit Card,Standard
+2265,18-09-2025,North,Clothing,-3.0,0.0,5.0,,COD,
+2266,26-09-2025,west,,,0.0,15.0,,COD,Standard
+2267,08-01-2025,East,Electronics,,0.0,10.0,509.36,UPI,Standard
+2268,15-04-2025,South,electronics,-3.0,0.0,5.0,,Cash,Express
+2269,28-02-2025,west,Furniture,-3.0,,-5.0,771.6,COD,Standard
+2270,04-04-2025,North,Clothing,9.0,82203.0,15.0,,UPI,
+2271,10-09-2025,East,Electronics,5.0,0.0,5.0,678.9,,Express
+2272,01-10-2025,,Furniture,-3.0,9131.0,10.0,,,
+2273,10-10-2025,North,,4.0,,5.0,867.53,COD,Express
+2274,20-10-2025,west,,2.0,0.0,10.0,878.24,UPI,
+2275,12-07-2025,North,Furniture,,87483.0,5.0,,COD,Express
+2276,01-07-2025,East,Electronics,,,5.0,745.24,,
+2277,31-08-2025,North,Furniture,-3.0,2046.0,15.0,,Debit Card,Standard
+2278,16-08-2025,South,Electronics,2.0,39109.0,10.0,,Debit Card,Standard
+2279,14-05-2025,North,Clothing,,72171.0,-5.0,,Cash,Express
+2280,22-05-2025,South,Electronics,7.0,,-5.0,,COD,
+2281,09-09-2025,west,Electronics,-3.0,0.0,15.0,514.45,Credit Card,Express
+2282,02-03-2025,west,Clothing,-3.0,34778.0,20.0,31166.04,Cash,
+2283,24-08-2025,North,electronics,-3.0,,15.0,536.68,,Express
+2284,07-11-2025,,,,4513.0,-5.0,,UPI,Express
+2285,20-12-2025,West,,-3.0,0.0,15.0,,Debit Card,Express
+2286,23-11-2025,,Clothing,-3.0,58491.0,,32579.53,Debit Card,Express
+2287,08-11-2025,East,electronics,,,,,UPI,
+2288,13-08-2025,West,,,6267.0,,,Cash,Standard
+2289,24-02-2025,,Electronics,3.0,,20.0,,UPI,Express
+2290,14-10-2025,South,electronics,9.0,31612.0,15.0,,UPI,
+2291,26-12-2025,North,,-3.0,59045.0,5.0,,Debit Card,Standard
+2292,15-07-2025,west,Clothing,-3.0,,,,Credit Card,Standard
+2293,11-10-2025,,Furniture,1.0,40335.0,-5.0,23375.95,Debit Card,Standard
+2294,24-02-2025,,Clothing,,0.0,10.0,532.62,Cash,
+2295,12-02-2025,West,Electronics,-3.0,0.0,15.0,854.33,,Standard
+2296,30-11-2025,,Furniture,-3.0,,-5.0,,Credit Card,Express
+2297,14-02-2025,West,,3.0,5156.0,-5.0,4480.98,Credit Card,
+2298,11-07-2025,,electronics,-3.0,82643.0,15.0,,Credit Card,Standard
+2299,26-02-2025,East,electronics,10.0,0.0,10.0,,UPI,
+2300,16-04-2025,East,Furniture,4.0,,,768.01,COD,Express
