@@ -1,0 +1,28 @@
+# 📊 Sales & Revenue Performance Dashboard
+
+## 📌 Project Overview
+This project analyzes sales performance data to track revenue trends, regional performance, and key business KPIs.  
+The dashboard was built in **Databricks SQL** using structured data modeling and aggregation queries.
+
+---
+
+## 🎯 Business Objective
+To provide stakeholders with a clear view of:
+- Total Revenue
+- Monthly Sales Trends
+- Regional Performance
+- Top Products
+- KPI Metrics for decision-making
+
+---
+
+## 🛠️ Tech Stack
+- Databricks (SQL Workspace)
+- SQL
+- Delta Lake
+- Data Modeling (Bronze → Silver → Gold)
+- Dashboard Visualization
+
+---
+
+## 🗂️ Project Structure
