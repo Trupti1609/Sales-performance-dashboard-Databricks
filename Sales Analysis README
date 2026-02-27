@@ -26,3 +26,58 @@ To provide stakeholders with a clear view of:
 ---
 
 ## 🗂️ Project Structure
+
+Sales-Performance-Dashboard/
+│
+├── notebooks/
+│ └── sales_pipeline.ipynb
+│
+├── dashboard/
+│ ├── sales_dashboard.json
+│ ├── dashboard_queries.sql
+│ └── dashboard_preview.png
+│
+└── README.md
+
+---
+
+## 📊 Dashboard Preview
+
+![Sales Dashboard](dashboard/dashboard_preview.png)
+
+---
+
+## 📈 Key Metrics Tracked
+- Total Revenue
+- Average Order Value
+- Monthly Growth Rate
+- Regional Sales Distribution
+- Top 10 Products by Revenue
+
+---
+
+## 🔍 Data Pipeline Architecture
+1. **Bronze Layer** – Raw sales data ingestion  
+2. **Silver Layer** – Data cleaning and transformation  
+3. **Gold Layer** – Aggregated business-level metrics  
+4. Dashboard built on Gold Layer tables  
+
+---
+
+## 💡 Skills Demonstrated
+- Advanced SQL Aggregations
+- Data Cleaning & Transformation
+- Data Modeling (Medallion Architecture)
+- Business KPI Design
+- Analytical Thinking
+- Dashboard Development
+
+---
+
+## 🚀 Outcome
+Developed an interactive dashboard enabling business stakeholders to monitor performance and make data-driven decisions.
+
+---
+
+### 👩‍💻 Author
+Trupti Muneshwar
